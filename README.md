@@ -12,6 +12,14 @@ To develop a comprehensive credit card weekly dashboard that provides real-time 
 ![Credit Card Financial Dashboard-Transaction_page-0001](https://github.com/user-attachments/assets/9385d01e-baee-41bf-ab4b-559130e8ed0f)
 ![Credit Card Financial Dashboard-Customer_page-0001](https://github.com/user-attachments/assets/9996ccbc-ba23-44f5-940d-ea174efad8f8)
 
+## Project Insights
+
+- Achieved a 28.8% week-over-week increase in total revenue by tracking and analyzing key performance indicators.
+- Identified that Blue and Silver credit cards contribute to over 93% of total transactions.
+- Revealed that Texas, New York, and California account for 68% of overall revenue, highlighting regional performance.
+- Discovered that male customers generated higher revenue (₹31M) compared to female customers (₹26M).
+- Measured an overall activation rate of 57.5% and a delinquency rate of 6.06%, enabling risk assessment.
+
 
 
 
