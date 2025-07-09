@@ -13,15 +13,24 @@ To develop a comprehensive credit card weekly dashboard that provides real-time 
 ![Credit Card Financial Dashboard-Customer_page-0001](https://github.com/user-attachments/assets/9996ccbc-ba23-44f5-940d-ea174efad8f8)
 
 ## Questions (KPI)
-1.What is the total revenue generated this week, and how does it compare to the previous week?
+1.What is the total revenue generated this week, and how does it compare to the previous week?  
+
 2.Which credit card category (Blue, Silver, Gold, Platinum) contributes the most to overall revenue?
+
 3.What is the current activation rate of issued credit cards?
+
 4.What is the delinquency rate among active customers?
+
 5.Which states or regions contribute the highest percentage of revenue?
+
 6.How does customer gender distribution impact revenue generation?
+
 7.What are the weekly trends in transaction count and transaction amount?
+
 8.How does revenue vary across different customer income and age groups?
+
 9.Which job categories or education levels are associated with higher transaction volumes or revenue?
+
 10.What is the average revenue per customer, and how is it trending over time?
 
 ## Process
